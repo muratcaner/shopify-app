@@ -340,7 +340,7 @@
 
 .banner__box {
   padding: 4rem 1.5rem;
-  position: relative;
+  position: right;
   height: fit-content;
   align-items: center;
   text-align: right;
