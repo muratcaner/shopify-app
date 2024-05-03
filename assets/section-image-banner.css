@@ -344,7 +344,7 @@
   height: fit-content;
   align-items: center;
   text-align: center;
-  width: 10%;
+  width: 100%;
   word-wrap: break-word;
   z-index: 1;
 }
