@@ -159,11 +159,11 @@
 }
 
 .banner__media {
-  height: 10%;
+  height: 50%;
   position: absolute;
   left: 0;
   top: 0;
-  width: 10%;
+  width: 50%;
 }
 
 .banner__media-half {
