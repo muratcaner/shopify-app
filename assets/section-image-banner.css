@@ -102,10 +102,11 @@
     justify-content: flex-start;
   }
 
-  .banner__content.banner__content--top-center {
-    align-items: flex-start;
-    justify-content: center;
+  .banner__content--middle-left {
+    align-items: center;
+    justify-content: flex-start;
   }
+
 
   .banner__content.banner__content--top-right {
     align-items: flex-start;
