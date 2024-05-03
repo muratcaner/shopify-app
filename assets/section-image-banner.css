@@ -1,6 +1,6 @@
 .banner {
   display: flex;
-  position: relative;
+  position: left;
   flex-direction: column;
   z-index: auto;
   isolation: isolate;
