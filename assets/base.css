@@ -102,6 +102,10 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
     padding: 0 5rem;
   }
 
+  section#shopify-section-template--15451171946605__image_banner {
+    background-color: red;
+}
+
   .header.page-width,
   .utility-bar__grid.page-width {
     padding-left: 3.2rem;
