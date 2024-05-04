@@ -12,6 +12,7 @@
 
 section#shopify-section-template--15451171946605__image_banner {
     background-color: red;
+    width: 500px;
 }
 
 /* Needed for gradient continuity with or without animation, the transform scopes the gradient to its container which happens already when animation are turned on */
