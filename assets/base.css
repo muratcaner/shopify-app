@@ -2290,7 +2290,8 @@ product-info .loading__spinner:not(.hidden) ~ *,
 
 /* section-header */
 .section-header.shopify-section-group-header-group {
-  z-index: 3;
+  z-index: 0;
+  display: none;
 }
 
 .shopify-section-header-sticky {
