@@ -103,7 +103,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   }
 
   section#shopify-section-template--15451171946605__image_banner {
-    background-color: red;
+    width: 500px;
 }
 
   .header.page-width,
