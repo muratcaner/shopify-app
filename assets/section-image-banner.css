@@ -478,6 +478,7 @@ section#shopify-section-template--15451171946605__image_banner {
 
 .banner__box > * + .banner__buttons {
   margin-top: 2rem;
+  background-color: black;
 }
 
 @media screen and (max-width: 749px) {
