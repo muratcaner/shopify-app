@@ -1,13 +1,12 @@
 .banner {
   display: flex;
-  position: center;
-  flex-direction: column;
-  z-index: auto;
-  isolation: isolate;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
 }
 
 .banner__box {
-  text-align: center;
+  text-align: left;
 }
 
 section#shopify-section-template--15451171946605__image_banner {
