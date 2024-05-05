@@ -5,7 +5,6 @@
   justify-content: flex-start;
   position: center;
   z-index: auto;
-  isolation: isolate;
 }
 
 .banner__box {
