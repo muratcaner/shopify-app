@@ -3,8 +3,8 @@
   flex-direction: row;
   align-items: center;
   justify-content: flex-start;
-  position: center;
-  z-index: 1;
+  position: left;
+  z-index: auto;
   isolation: isolate;
 }
 
