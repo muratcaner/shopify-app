@@ -1,12 +1,13 @@
 .banner {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: center;
   justify-content: flex-start;
 }
 
 .banner__box {
   text-align: right;
+  margin-left: auto;
 }
 
 section#shopify-section-template--15451171946605__image_banner {
@@ -167,6 +168,7 @@ section#shopify-section-template--15451171946605__image_banner {
   left: 0;
   top: 0;
   width: 100%;
+  flex-shrink: 0;
 }
 
 .banner__media-half {
