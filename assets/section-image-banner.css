@@ -166,8 +166,11 @@ section#shopify-section-template--15451171946605__image_banner {
 }
 
 .banner__media { 
-  position: relative;
-  z-index: 1;
+  height: 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
 }
 
 .banner__media-half {
