@@ -166,12 +166,9 @@ section#shopify-section-template--15451171946605__image_banner {
 }
 
 .banner__media {
-  height: 100%;
+  flex-shrink: 0; 
   position: relative;
-  left: 0;
-  top: 0;
-  width: 100%;
-  flex-shrink: 0;
+  z-index: 1;
 }
 
 .banner__media-half {
